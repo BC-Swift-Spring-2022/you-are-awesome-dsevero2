@@ -37,7 +37,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="messageLabel" destination="SkK-Vc-V1A" id="Roz-v0-OVL"/>
+                        <outlet property="messageLabel" destination="SkK-Vc-V1A" id="jmA-ec-tI5"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
